@@ -11,9 +11,9 @@
         <div class="header-team-name">BEBAS MANG</div>
       </div>
       <div class="header-right">
-        <a href="#">Home</a>
-        <a href="#">About us</a>
-        <a href="#">Gallery</a>
+        <a class="header-right-list" href="#">Home</a>
+        <a class="header-right-list" href="#">About us</a>
+        <a class="header-right-list" href="#">Gallery</a>
       </div>
     </header>
   </body>
