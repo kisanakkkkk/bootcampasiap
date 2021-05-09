@@ -8,12 +8,14 @@
   <body>
     <!-- Write your code below -->
     <div class="header">
-      <div class="header logo">BEBAS MANG</div>
+      <div class="header-logo">BEBAS MANG</div>
+      <div class="header-list">
       <ul>
         <li>Home</li>
         <li>About</li>
         <li>Gallery</li>
       </ul>
+      </div>
     </div>
   </body>
 </html>
