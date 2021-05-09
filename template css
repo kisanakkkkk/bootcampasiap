@@ -78,6 +78,7 @@ header {
     	font-weight: 400;
     	letter-spacing: 1px;
     	margin: 0px;
+      font-family: "Gotham";
     }
     .s-heading p{
     	color: rgba(87,105,117,0.60);
