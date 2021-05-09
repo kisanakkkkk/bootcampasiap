@@ -11,11 +11,9 @@
         <div class="header-team-name">BEBAS MANG</div>
       </div>
       <div class="header-right">
-        <ul class="header-kiri">
-          <li>Home</li>
-          <li>About us</li>
-          <li>Gallery</li>
-        </ul>
+        <a href="#">Home</a>
+        <a href="#">About us</a>
+        <a href="#">Gallery</a>
       </div>
     </header>
   </body>
