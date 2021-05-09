@@ -16,5 +16,44 @@
         <a class="header-right-list" href="#">Gallery</a>
       </div>
     </header>
+        <main>
+      <h1 class="main-text">Pilih Paket Anda</h1>
+      <h2 class="main-subtext">Streaming, Nelpon, SMS Sepuasnya!!!</h2>
+      <div class="content-image">
+        <h3 class="packet-name">siput</h3>
+        <h4 class="harga">Rp. 10.000</h4>
+        <ul>
+          <li><span class="fa fa-check"></span>Kecepatan internet 10MBps</li>
+          <li><span class="fa fa-check"></span>100 jam telepon</li>
+          <li><span class="fa fa-check"></span>300 SMS</li>
+        </ul>
+        <a href="#" class="btn purchase">BELI SEKARANG</a>
+      </div>
+      <div class="content-image">
+        <h3 class="packet-name">burung</h3>
+        <h4 class="harga">Rp. 100.000</h4>
+        <ul>
+          <li><span class="fa fa-check"></span>Kecepatan internet 60MBps</li>
+          <li><span class="fa fa-check"></span>300 jam telepon</li>
+          <li><span class="fa fa-check"></span>400 SMS</li>
+          <li><span class="fa fa-check"></span>20 GB kuota gaming</li>
+        </ul>
+        <a href="#" class="btn purchase">BELI SEKARANG</a>
+      </div>
+      <div class="content-image">
+        <h3 class="packet-name">naga</h3>
+        <h4 class="harga">Rp. 450.000</h4>
+        <ul>
+          <li><span class="fa fa-check"></span>Kecepatan internet 300MBps</li>
+          <li><span class="fa fa-check"></span>unlimited telepon</li>
+          <li><span class="fa fa-check"></span>unlimited SMS</li>
+          <li><span class="fa fa-check"></span>50 GB kuota gaming</li>
+          <li><span class="fa fa-check"></span>nonton drakor sepuasnya di A-flix</li>
+        </ul>
+        <a href="#" class="btn purchase">BELI SEKARANG</a>
+      </div>
+      </div>
+      </div>
+    </main>
   </body>
 </html>
