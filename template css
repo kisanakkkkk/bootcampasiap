@@ -189,20 +189,17 @@ header {
     	
     }
 /*footer*/
-/* Add CSS for <img> tags inside the <footer> */
 footer img {
     padding-left: 600px;
     padding-bottom: 50px;
     width: 200px;
   }
-  
-  /* Add CSS for <p> tags inside the <footer> */
+
 footer p {
     color: white;
     font-size: 25px;
 }
-  
-  /* Add CSS for <footer> tags */
+
 footer {
     background-color: black;
 }
