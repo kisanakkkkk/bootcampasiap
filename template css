@@ -28,3 +28,10 @@ header {
   padding: 20px 40px;
   font-weight: bold;
 }
+
+.header-right-list {
+  float: left;
+  color: #fff;
+  text-decoration: none;
+  padding: 33px 25px;
+}
