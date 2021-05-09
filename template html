@@ -79,5 +79,23 @@
 	</div>
 	</div>
 	</section>
+    <footer>
+        <!-- Write your code here -->
+        <div class="container">
+          <img src="https://cdn.discordapp.com/emojis/532622181218385930.png">
+          </div class="copy-container">
+            <p>Powered by pejuang GSLC</p>
+            <div class="list-nama-anjay">
+                <ul>
+                    <li>Kisanak</li>
+                    <li>ByteBites</li>
+                    <li>Maskirovka</li>
+                    <li>Ynot</li>
+                    <li>Xenos</li>
+                </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
   </body>
 </html>
