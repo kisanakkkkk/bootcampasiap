@@ -7,6 +7,13 @@
   </head>
   <body>
     <!-- Write your code below -->
-    <h1> sesuatu </h1>
+    <div class="header">
+      <div class="header logo">BEBAS MANG</div>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Gallery</li>
+      </ul>
+    </div>
   </body>
 </html>
