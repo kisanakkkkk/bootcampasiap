@@ -29,6 +29,13 @@ header {
   font-weight: bold;
 }
 
+.header-right {
+  float: right;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+
 .header-right-list {
   float: left;
   color: #fff;
