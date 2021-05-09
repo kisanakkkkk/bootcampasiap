@@ -2,20 +2,21 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Progate</title>
+    <title>BEBAS MANG</title>
     <link rel="stylesheet" href="stylesheet.css">
   </head>
   <body>
-    <!-- Write your code below -->
-    <div class="header">
-      <div class="header-logo">BEBAS MANG</div>
-      <div class="header-list">
-      <ul>
-        <li>Home</li>
-        <li>About</li>
-        <li>Gallery</li>
-      </ul>
+    <header>
+      <div class="header-left">
+        <div class="header-team-name">BEBAS MANG</div>
       </div>
-    </div>
+      <div class="header-right">
+        <ul class="header-kiri">
+          <li>Home</li>
+          <li>About us</li>
+          <li>Gallery</li>
+        </ul>
+      </div>
+    </header>
   </body>
 </html>
