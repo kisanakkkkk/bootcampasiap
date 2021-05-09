@@ -41,4 +41,10 @@ header {
   color: #fff;
   text-decoration: none;
   padding: 33px 25px;
+  transition: all 0.2s;
+  
+}
+
+.header-right-list:hover {
+  color: #32CD32
 }
